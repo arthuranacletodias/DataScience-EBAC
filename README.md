@@ -7,3 +7,4 @@ Aqui concentro notebooks, scripts, datasets e anotações que documentam minha j
 
 ## 📑 Estrutura do repositório
 
+:)
